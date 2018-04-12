@@ -13,9 +13,9 @@ Fonctionnel :)
     <li> Lancer le programme via la commande ruby
     <li> Le programme va afficher "Données récupérées avec succès"
     <li> Vous pouvez choisir d'afficher les données avec "y" ou refuser de les afficher avec "n"
-    <li> ATTENTION BCP DE DONNEES S'AFFICHENT (crtl + c pour arreter le programme)
+    <li> ATTENTION BCP DE DONNEES S'AFFICHENT (crtl + c pour arreter le programme)</li>
 
-    <h2>Troisième exercice - INCUBATEUR</h2>
+  <h2>Troisième exercice - INCUBATEUR</h2>
     Fonctionnel :)
     Utilisation du site alloweb.fr
 
