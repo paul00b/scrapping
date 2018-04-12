@@ -12,7 +12,7 @@ Fonctionnel :)
   Fonctionnel :)
     <li> Lancer le programme via la commande ruby</li>
     <li> Le programme va afficher "Données récupérées avec succès"</li>
-    <li> Vous pouvez choisir d'afficher les données avec "y" ou refuser de les afficher avec "n"</li>
+    <li> Vous pouvez choisir d'afficher les données formatées avec "y" ou refuser de les afficher avec "n"</li>
     <li> ATTENTION BCP DE DONNEES S'AFFICHENT (crtl + c pour arreter le programme)</li>
 
   <h2>Troisième exercice - INCUBATEUR</h2>
