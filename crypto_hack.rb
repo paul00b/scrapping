@@ -15,16 +15,9 @@ def get_currency()
     link2 = link.text
     currencies.push(link2)
     end
-
+    return currencies
     ## Pour éviter de pourrir le terminal ##
-    puts "Données récupérées avec succès"
-    puts "Afficher le cours des cryptomonaies (ça fait beaucoup de texte) ? (y/n)"
-    rep=gets.chomp
-      if rep == "y"
-        puts currencies
-      else
-        puts "Bien reçu chef !"
-    end
+
 
 end
 
@@ -42,4 +35,23 @@ def get_names()
 end
 
 ###################### Récupération du cours des monnaies #####################
-get_currency()
+currencies = get_currency()
+names = get_names()
+
+n = 0
+i = 0
+puts "Données récupérées avec succès"
+puts "Afficher le cours des cryptomonaies (ça fait beaucoup de texte mais c'est joli) ? (tapez y ou n)"
+rep=gets.chomp
+  if rep == "y"
+
+    ##### Grâce à cette boucle, on joint ensemble le nom et la currency
+    while  n < currencies.length
+                puts names[i] + currencies[i]
+                puts "---------------"
+                n +=1
+                i +=1
+    end
+  else
+    puts "Bien reçu chef, on affiche rien :) !"
+end
