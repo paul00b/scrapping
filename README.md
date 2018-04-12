@@ -19,6 +19,6 @@ Fonctionnel :)
     Fonctionnel :)
     Utilisation du site alloweb.fr
 
-      <li> Lancer le programme via la commande ruby " ruby incubateur.rb "</li>
-      <li> Le programme va afficher "Utilisation de l'url par défault"</li>
-      <li> Affichage successifs des sites et des nom d'incubateurs</li>
+      - Lancer le programme via la commande ruby " ruby incubateur.rb "
+      - Le programme va afficher "Utilisation de l'url par défault"
+      - Affichage successifs des sites et des nom d'incubateurs
