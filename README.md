@@ -10,7 +10,7 @@ Fonctionnel :)
 
   Deuxième exercice - CRYPTO HACK
   Fonctionnel :)
-    - Lancer le programme via la commande ruby
-    - Le programme va afficher "Données récupérées avec succès"
-    - Vous pouvez choisir d'afficher les données avec "y" ou refuser de les afficher avec "n"
-    - ATTENTION BCP DE DONNEES S'AFFICHENT (crtl + c pour arreter le programme)
+    <li> Lancer le programme via la commande ruby
+    <li> Le programme va afficher "Données récupérées avec succès"
+    <li> Vous pouvez choisir d'afficher les données avec "y" ou refuser de les afficher avec "n"
+    <li> ATTENTION BCP DE DONNEES S'AFFICHENT (crtl + c pour arreter le programme)
