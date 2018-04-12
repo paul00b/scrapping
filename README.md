@@ -1,6 +1,6 @@
 # scrapping
 
-Premier exercice - ROUTE MAIRIE
+<h2>Premier exercice - ROUTE MAIRIE</h2>
 Fonctionnel :)
   - Lancer le programme via la commande ruby
   - Utiliser l'url par défaut en écrivant "y" et appuyant sur entrée
@@ -8,7 +8,7 @@ Fonctionnel :)
     - Ajouter l'url personnalisée
   - ATTENTION BCP DE DONNEES S'AFFICHENT (crtl + c pour arreter le programme)
 
-  Deuxième exercice - CRYPTO HACK
+  <h2>Deuxième exercice - CRYPTO HACK</h2>
   Fonctionnel :)
     <li> Lancer le programme via la commande ruby
     <li> Le programme va afficher "Données récupérées avec succès"
